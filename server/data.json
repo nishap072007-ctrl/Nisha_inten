@@ -1,0 +1,45 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav Kumar",
+      "course": "Computer Science",
+      "attendance": 92
+    },
+    {
+      "id": 2,
+      "name": "Meera Shah",
+      "course": "Business Studies",
+      "attendance": 78
+    },
+    {
+      "id": 3,
+      "name": "Rahul Nair",
+      "course": "Mechanical",
+      "attendance": 84
+    }
+  ],
+  "assignments": [
+    {
+      "id": 1,
+      "title": "Database normalization report",
+      "subject": "Computer Science",
+      "dueDate": "2026-06-28",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "title": "Marketing case study",
+      "subject": "Business Studies",
+      "dueDate": "2026-06-25",
+      "status": "Late"
+    },
+    {
+      "id": 3,
+      "title": "CAD lab submission",
+      "subject": "Mechanical",
+      "dueDate": "2026-06-30",
+      "status": "Submitted"
+    }
+  ]
+}
